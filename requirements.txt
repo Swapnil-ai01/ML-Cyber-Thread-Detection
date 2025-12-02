@@ -1,0 +1,8 @@
+streamlit
+pandas
+joblib
+python-dotenv
+google-generativeai
+requests
+Pillow
+functionality
