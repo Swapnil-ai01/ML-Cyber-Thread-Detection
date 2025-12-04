@@ -71,12 +71,12 @@ def get_gemini_response(prompt, image):
 final_pipeline = load_model(MODEL_PATH)
 
 st.set_page_config(
-    page_title="Cybersecurity Intrusion Detector",
+    page_title="Cyber Thread Detector",
     layout="centered",
     initial_sidebar_state="collapsed",
 )
 
-st.title("🛡️ Network Intrusion Detector")
+st.title("🛡️ Cyber Thread Detector System")
 
 tab1, tab2 = st.tabs(["Using Data", "Image Analysis"])
 
